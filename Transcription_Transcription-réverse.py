@@ -1,3 +1,4 @@
+#Vérifier la validité de la séquence donnée
 def verification_seq(sequence,sequence_entre):
     x=[65,67,71,84]
     if (choix==2):
